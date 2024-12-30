@@ -1,6 +1,6 @@
 # AWS-Flower-Image-Classifier
 
-This repository contains an **`.ipynb`** Jupyter Notebook designed for **Google Colab** to train and deploy an image classification model using **PyTorch**. You can follow the step-by-step instructions to load data, train a custom classifier on a pre-trained architecture (like VGG16), and make predictions on new images.
+This repository contains an **`.ipynb`** Jupyter Notebook designed for **Google Colab** to train and deploy an image classification model using **PyTorch**. You can follow the step-by-step instructions to load data, train a custom classifier on a pre-trained architecture (like VGG16), and make predictions on new images. The project was a part of my AWS ML Nanodegree Program.
 
 ---
 
